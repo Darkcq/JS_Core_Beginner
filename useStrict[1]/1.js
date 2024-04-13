@@ -10,6 +10,4 @@ function factorial(n) {
 }
 
 // Пример использования:
-const number = 5;
-const result = factorial(number);
-console.log(`Факториал числа ${number} равен ${result}`);
+console.log(`Факториал числа 5 равен ${factorial(5)}`);
